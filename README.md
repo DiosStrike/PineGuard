@@ -2,7 +2,9 @@
 
 **Principal Analyst:** Tanghao Chen (Dios)
 
-PineGuard is a geospatial intelligence platform engineered for the monitoring, analysis, and projection of forest health anomalies. By synthesizing 41 years of historical data with linear regression modeling, the system provides a strategic framework for understanding the spatial dynamics of forest stress and predicting future risk trajectories.
+PineGuard is not merely a geospatial intelligence platform; it is a specialized digital defense system engineered to combat Pine Wilt Disease (PWD), an ecological catastrophe often referred to as the "Forest Cancer." PWD, caused by the pinewood nematode, can trigger the total vascular collapse of a mature pine tree within just 30 to 90 days, transforming vibrant ecosystems into highly flammable "red-stage" timber stands.
+
+By synthesizing 41 years of historical satellite data (1984–2025) with advanced linear regression modeling, PineGuard provides a strategic framework for decoding the invisible spatial dynamics of this pathogen. To overcome the "Spectral Chameleon" effect—where California’s arid soils and Mediterranean grasses mimic the signature of dying trees—the system employs a custom Land Cover Masking Algorithm. This engineering intervention surgically filters geological and seasonal noise, isolating high-fidelity biogenic stress signals. The result is a system that not only audits four decades of infestation history but also projects high-risk outbreak trajectories through 2045, offering decision-makers a transition from reactive management to proactive strategic intervention.
 
 ---
 
