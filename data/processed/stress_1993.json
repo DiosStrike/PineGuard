@@ -1,0 +1,56 @@
+{
+    "year": "1993",
+    "outbreak_count": 10,
+    "locations": [
+        {
+            "latitude": 37.113038,
+            "longitude": -119.645933,
+            "stress_score": 0.8259
+        },
+        {
+            "latitude": 37.06328,
+            "longitude": -119.559074,
+            "stress_score": 0.7861
+        },
+        {
+            "latitude": 37.17113,
+            "longitude": -119.616511,
+            "stress_score": 0.4203
+        },
+        {
+            "latitude": 37.160385,
+            "longitude": -119.563724,
+            "stress_score": 0.3514
+        },
+        {
+            "latitude": 37.140682,
+            "longitude": -119.624407,
+            "stress_score": 0.8173
+        },
+        {
+            "latitude": 37.141164,
+            "longitude": -119.644988,
+            "stress_score": 0.5099
+        },
+        {
+            "latitude": 37.085444,
+            "longitude": -119.661407,
+            "stress_score": 0.6415
+        },
+        {
+            "latitude": 37.158905,
+            "longitude": -119.556162,
+            "stress_score": 0.6303
+        },
+        {
+            "latitude": 37.161972,
+            "longitude": -119.648192,
+            "stress_score": 0.8258
+        },
+        {
+            "latitude": 37.104067,
+            "longitude": -119.633516,
+            "stress_score": 0.4355
+        }
+    ]
+}

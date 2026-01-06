@@ -1,0 +1,96 @@
+{
+    "year": "2000",
+    "outbreak_count": 18,
+    "locations": [
+        {
+            "latitude": 37.14581,
+            "longitude": -119.571269,
+            "stress_score": 0.5052
+        },
+        {
+            "latitude": 37.183758,
+            "longitude": -119.681702,
+            "stress_score": 0.5567
+        },
+        {
+            "latitude": 37.143137,
+            "longitude": -119.528154,
+            "stress_score": 0.9346
+        },
+        {
+            "latitude": 37.099297,
+            "longitude": -119.650748,
+            "stress_score": 0.3627
+        },
+        {
+            "latitude": 37.133064,
+            "longitude": -119.540703,
+            "stress_score": 0.3798
+        },
+        {
+            "latitude": 37.138352,
+            "longitude": -119.615516,
+            "stress_score": 0.6993
+        },
+        {
+            "latitude": 37.087966,
+            "longitude": -119.630731,
+            "stress_score": 0.7631
+        },
+        {
+            "latitude": 37.142454,
+            "longitude": -119.539892,
+            "stress_score": 0.8366
+        },
+        {
+            "latitude": 37.195024,
+            "longitude": -119.680969,
+            "stress_score": 0.6302
+        },
+        {
+            "latitude": 37.075953,
+            "longitude": -119.680699,
+            "stress_score": 0.4163
+        },
+        {
+            "latitude": 37.169014,
+            "longitude": -119.62582,
+            "stress_score": 0.6424
+        },
+        {
+            "latitude": 37.052286,
+            "longitude": -119.6486,
+            "stress_score": 0.5594
+        },
+        {
+            "latitude": 37.18616,
+            "longitude": -119.566978,
+            "stress_score": 0.7179
+        },
+        {
+            "latitude": 37.19733,
+            "longitude": -119.625741,
+            "stress_score": 0.3643
+        },
+        {
+            "latitude": 37.054005,
+            "longitude": -119.61031,
+            "stress_score": 0.5264
+        },
+        {
+            "latitude": 37.126502,
+            "longitude": -119.524851,
+            "stress_score": 0.3574
+        },
+        {
+            "latitude": 37.111892,
+            "longitude": -119.605591,
+            "stress_score": 0.641
+        },
+        {
+            "latitude": 37.152108,
+            "longitude": -119.575266,
+            "stress_score": 0.5805
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "year": "1998",
+    "outbreak_count": 15,
+    "locations": [
+        {
+            "latitude": 37.153099,
+            "longitude": -119.560911,
+            "stress_score": 0.5231
+        },
+        {
+            "latitude": 37.162767,
+            "longitude": -119.612454,
+            "stress_score": 0.5146
+        },
+        {
+            "latitude": 37.106505,
+            "longitude": -119.660013,
+            "stress_score": 0.7487
+        },
+        {
+            "latitude": 37.129589,
+            "longitude": -119.628892,
+            "stress_score": 0.848
+        },
+        {
+            "latitude": 37.132463,
+            "longitude": -119.568237,
+            "stress_score": 0.6808
+        },
+        {
+            "latitude": 37.168469,
+            "longitude": -119.625431,
+            "stress_score": 0.9383
+        },
+        {
+            "latitude": 37.176781,
+            "longitude": -119.563778,
+            "stress_score": 0.7381
+        },
+        {
+            "latitude": 37.165718,
+            "longitude": -119.58971,
+            "stress_score": 0.8279
+        },
+        {
+            "latitude": 37.058032,
+            "longitude": -119.546632,
+            "stress_score": 0.4238
+        },
+        {
+            "latitude": 37.06712,
+            "longitude": -119.618321,
+            "stress_score": 0.6873
+        },
+        {
+            "latitude": 37.060548,
+            "longitude": -119.653177,
+            "stress_score": 0.5219
+        },
+        {
+            "latitude": 37.147568,
+            "longitude": -119.634197,
+            "stress_score": 0.6991
+        },
+        {
+            "latitude": 37.065122,
+            "longitude": -119.629999,
+            "stress_score": 0.7016
+        },
+        {
+            "latitude": 37.127945,
+            "longitude": -119.60804,
+            "stress_score": 0.3698
+        },
+        {
+            "latitude": 37.093425,
+            "longitude": -119.656227,
+            "stress_score": 0.8641
+        }
+    ]
+}

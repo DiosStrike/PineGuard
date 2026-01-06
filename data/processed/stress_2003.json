@@ -1,0 +1,156 @@
+{
+    "year": "2003",
+    "outbreak_count": 30,
+    "locations": [
+        {
+            "latitude": 37.080323,
+            "longitude": -119.52356,
+            "stress_score": 0.8021
+        },
+        {
+            "latitude": 37.052173,
+            "longitude": -119.598568,
+            "stress_score": 0.8885
+        },
+        {
+            "latitude": 37.206593,
+            "longitude": -119.632537,
+            "stress_score": 0.3744
+        },
+        {
+            "latitude": 37.08372,
+            "longitude": -119.585108,
+            "stress_score": 0.4697
+        },
+        {
+            "latitude": 37.191119,
+            "longitude": -119.524147,
+            "stress_score": 0.3636
+        },
+        {
+            "latitude": 37.12022,
+            "longitude": -119.536769,
+            "stress_score": 0.7824
+        },
+        {
+            "latitude": 37.134433,
+            "longitude": -119.607684,
+            "stress_score": 0.8309
+        },
+        {
+            "latitude": 37.051908,
+            "longitude": -119.52519,
+            "stress_score": 0.3646
+        },
+        {
+            "latitude": 37.208705,
+            "longitude": -119.646184,
+            "stress_score": 0.8474
+        },
+        {
+            "latitude": 37.211375,
+            "longitude": -119.535059,
+            "stress_score": 0.6898
+        },
+        {
+            "latitude": 37.177502,
+            "longitude": -119.62543,
+            "stress_score": 0.8585
+        },
+        {
+            "latitude": 37.101412,
+            "longitude": -119.685136,
+            "stress_score": 0.7527
+        },
+        {
+            "latitude": 37.198922,
+            "longitude": -119.668038,
+            "stress_score": 0.5848
+        },
+        {
+            "latitude": 37.210098,
+            "longitude": -119.634246,
+            "stress_score": 0.9381
+        },
+        {
+            "latitude": 37.115392,
+            "longitude": -119.526243,
+            "stress_score": 0.4312
+        },
+        {
+            "latitude": 37.031275,
+            "longitude": -119.5159,
+            "stress_score": 0.4376
+        },
+        {
+            "latitude": 37.208407,
+            "longitude": -119.686821,
+            "stress_score": 0.7034
+        },
+        {
+            "latitude": 37.034307,
+            "longitude": -119.693134,
+            "stress_score": 0.8191
+        },
+        {
+            "latitude": 37.15723,
+            "longitude": -119.55526,
+            "stress_score": 0.7103
+        },
+        {
+            "latitude": 37.174017,
+            "longitude": -119.530175,
+            "stress_score": 0.4893
+        },
+        {
+            "latitude": 37.127207,
+            "longitude": -119.564249,
+            "stress_score": 0.7949
+        },
+        {
+            "latitude": 37.106613,
+            "longitude": -119.577656,
+            "stress_score": 0.9027
+        },
+        {
+            "latitude": 37.035198,
+            "longitude": -119.593241,
+            "stress_score": 0.9225
+        },
+        {
+            "latitude": 37.118187,
+            "longitude": -119.58222,
+            "stress_score": 0.5581
+        },
+        {
+            "latitude": 37.038655,
+            "longitude": -119.598196,
+            "stress_score": 0.7433
+        },
+        {
+            "latitude": 37.096241,
+            "longitude": -119.644295,
+            "stress_score": 0.555
+        },
+        {
+            "latitude": 37.026642,
+            "longitude": -119.547476,
+            "stress_score": 0.4089
+        },
+        {
+            "latitude": 37.15817,
+            "longitude": -119.532815,
+            "stress_score": 0.6247
+        },
+        {
+            "latitude": 37.037483,
+            "longitude": -119.606344,
+            "stress_score": 0.8001
+        },
+        {
+            "latitude": 37.183846,
+            "longitude": -119.512505,
+            "stress_score": 0.6193
+        }
+    ]
+}

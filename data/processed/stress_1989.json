@@ -1,0 +1,36 @@
+{
+    "year": "1989",
+    "outbreak_count": 6,
+    "locations": [
+        {
+            "latitude": 37.084445,
+            "longitude": -119.587517,
+            "stress_score": 0.8559
+        },
+        {
+            "latitude": 37.159691,
+            "longitude": -119.606839,
+            "stress_score": 0.6073
+        },
+        {
+            "latitude": 37.115208,
+            "longitude": -119.621303,
+            "stress_score": 0.4911
+        },
+        {
+            "latitude": 37.157923,
+            "longitude": -119.577025,
+            "stress_score": 0.4854
+        },
+        {
+            "latitude": 37.098459,
+            "longitude": -119.586234,
+            "stress_score": 0.5248
+        },
+        {
+            "latitude": 37.078627,
+            "longitude": -119.622724,
+            "stress_score": 0.774
+        }
+    ]
+}

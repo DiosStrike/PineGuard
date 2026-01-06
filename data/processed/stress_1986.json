@@ -1,0 +1,21 @@
+{
+    "year": "1986",
+    "outbreak_count": 3,
+    "locations": [
+        {
+            "latitude": 37.083376,
+            "longitude": -119.584138,
+            "stress_score": 0.357
+        },
+        {
+            "latitude": 37.132167,
+            "longitude": -119.641765,
+            "stress_score": 0.9158
+        },
+        {
+            "latitude": 37.159912,
+            "longitude": -119.64055,
+            "stress_score": 0.8451
+        }
+    ]
+}
